@@ -17,10 +17,10 @@ public class Main {
         build(building);
         build(office);
         
-//        List<Building> buildings = new ArrayList();
-//        buildings.add(new Building());
-//        buildings.add(new Office());
-//        printBuildings(buildings);
+       List<Building> buildings = new ArrayList();
+       buildings.add(new Building());
+       buildings.add(new Office());
+       printBuildings(buildings);
         
 //        List<Office> offices = new ArrayList();
 //        offices.add(new Office());
