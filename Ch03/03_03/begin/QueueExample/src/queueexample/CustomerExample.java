@@ -9,13 +9,13 @@ package queueexample;
  *
  * @author betha
  */
-public class Customer {
+public class CustomerExample {
     
     private boolean hasBeenServed;
     private String name;
     
     
-    public Customer(String name) {
+    public CustomerExample(String name) {
         hasBeenServed = false;
         this.name = name;
     }
